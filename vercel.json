@@ -2,7 +2,7 @@
   "rewrites": [
     {
       "source": "/api/:path*",
-      "destination": "https://insightly-backend.onrender.com/api/:path*"
+      "destination": "https://insightly-backend-scuv.onrender.com/api/:path*"
     }
   ]
 }

@@ -22,7 +22,7 @@ export function Header({ timeRange, onTimeRangeChange, onAnalyze, onMenuClick }:
   const [appUrl,       setAppUrl]       = useState('');
   const [showTimeMenu, setShowTimeMenu] = useState(false);
 
-  const selectedLabel = TIME_RANGES.find(t => t.value === timeRange)?.label ?? 'Last Month';
+  const selectedLabel = TIME_RANGES.find(t => t.value === timeRange)?.label ?? 'Last Week';
 
   const handleAnalyze = () => {
     const trimmed = appUrl.trim();

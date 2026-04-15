@@ -6,7 +6,7 @@
 
 ## 🚀 Live Demo
 
-- **Frontend:** [insightly.vercel.app](https://insightly.vercel.app)
+- **Frontend:** [insightly.vercel.app](https://insightly-roan.vercel.app/)
 - **Backend API:** [insightly-backend-scuv.onrender.com/api/health](https://insightly-backend-scuv.onrender.com/api/health)
 
 ---
